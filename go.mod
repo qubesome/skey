@@ -6,7 +6,7 @@ require (
 	github.com/landlock-lsm/go-landlock v0.0.0-20251103212306-430f8e5cd97c
 	github.com/qubesome/libudev v0.0.2
 	github.com/qubesome/piv-go v0.0.2
-	github.com/urfave/cli/v3 v3.5.0
+	github.com/urfave/cli/v3 v3.6.1
 )
 
 require (
